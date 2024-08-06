@@ -19,4 +19,5 @@
 ## List of Files in Submission:
 Hiking Web Page Includes: 
 1. Four .java files (BookingDay.java, Controller.java, Hike.java, Rates.java)
+   
 2. Web Content (index.jsp, reservation-summary.jsp)
