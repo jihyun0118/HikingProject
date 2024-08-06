@@ -1,5 +1,5 @@
 # Enterprise Web Development
-# Hiking Web Page <img src="man/figures/logo.png" align="right" alt="" width="120" />
+# Hiking Web Page <img src="man/figures/logo.png" align="right" alt="" width="80" />
 
 > For the enterprise web development class, developed a dynamic web page
 > 
